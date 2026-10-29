@@ -2,6 +2,8 @@
 // @name         CHAOS v2
 // @namespace    http://tampermonkey.net/
 // @version      2.0
+// @updateURL    https://raw.githubusercontent.com/joshuaploegjes/De_Mods_2/main/CHAOSv2.user.js
+// @downloadURL  https://raw.githubusercontent.com/joshuaploegjes/De_Mods_2/main/CHAOSv2.user.js
 // @description  Willekeurige gekke dingen op elke pagina, nu met meer foto's, korte video's en extra effecten
 // @match        *://*/*
 // @run-at       document-idle
